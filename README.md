@@ -3,7 +3,7 @@
 
 El objetivo de este proyecto es encontrar la mejor ubicación para situar una empresa que se dedica al sector de los videojuegos.
 
-En el repositorio encontrarás dos Jupyter Notebooks y una carpeta con la base de datos que se ha trabajado despues del primer Jupyter Notebook.
+En el repositorio se encuentran dos Jupyter Notebooks y una carpeta ("Data") con la base de datos que se ha trabajado despues del primer Jupyter Notebook.
 
 En el Jupyter Notebook llamado "Primera limpieza Pandas" se realiza una selección, filtrado y limpieza de la base de datos con la que va a trabajar posteriormente.
 
