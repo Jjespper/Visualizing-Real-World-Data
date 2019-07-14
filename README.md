@@ -23,5 +23,14 @@ Tras considerar todas esta condiciones se ha realizado un ranking, y la localiza
 
 
 
-**Futuras mejoras:_**
+<div class="panel panel-success">
+**Futuras mejoras:**
+{: .panel-heading}
+<div class="panel-body">
+
 Hacer una categorización de sectores de actividad de las empresas y utilizarlas para el ranking de empresas cercanas en el radio establecido. 
+
+
+</div>
+</div>
+
