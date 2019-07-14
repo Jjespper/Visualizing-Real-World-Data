@@ -23,6 +23,5 @@ Tras considerar todas esta condiciones se ha realizado un ranking, y la localiza
 
 
 
-<div class="alert alert-block alert-info">
-<b>Futuras mejoras</b> Hacer una categorización de sectores de actividad de las empresas y utilizarlas para el ranking de empresas cercanas en el radio establecido. 
-</div>
+**Futuras mejoras:_**
+Hacer una categorización de sectores de actividad de las empresas y utilizarlas para el ranking de empresas cercanas en el radio establecido. 
