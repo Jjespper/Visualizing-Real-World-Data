@@ -22,15 +22,8 @@ He categorizado por empresas de videojuegos o empresas tecnológicas (en general
 Tras considerar todas esta condiciones se ha realizado un ranking, y la localización con la mejor puntuación ha sido la finalmente elegida. Esta localización la puede encontrar al final del segundo Jupyter Notebook, la representación se ha realizado con la librería Follium.
 
 
-
-<div class="panel panel-success">
 **Futuras mejoras:**
-{: .panel-heading}
-<div class="panel-body">
-
-Hacer una categorización de sectores de actividad de las empresas y utilizarlas para el ranking de empresas cercanas en el radio establecido. 
-
-
-</div>
-</div>
+- [ ] Mejorar la categorización de sectores de actividad (regex).
+- [ ] Aplicar la categorización al ranking.
+- [ ] Enriquecer los datos con diferentes APIs.
 
